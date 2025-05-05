@@ -5,5 +5,5 @@ exclude=
   *.pot,
   *.py[co],
   __pycache__,
-  venv,
+  .venv,
   .env
